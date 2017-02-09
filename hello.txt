@@ -1,0 +1,2 @@
+Austria Vienna 83,859 8,075
+Belgium Brussels 30,518 10,192
